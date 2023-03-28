@@ -1,0 +1,904 @@
+{
+    "products": [
+        {
+            "name": "JET SET EYES KAJAL EYELINER",
+            "description": "The LIT Matte Nail Enamels by MyGlamm promise super long wear time, guaranteeing endless nights of fun with your digits—whether it’s in real time or some good ol’ sexting. Nothing sets the mood quite like the frosty matte finish of polished nails. We’ve used a formula that improves colour payoff, enhances brightness and mattifies in seconds —time to put those nails to good use.",
+            "image": "https://files.myglamm.com/site-images/800x800/Noir-1.jpg",
+            "category": "Makeup",
+            "rating": 3,
+            "price": 854,
+            "id": "1"
+        },
+        {
+            "name": "VACATION-READY MAKEUP COMBO",
+            "description": "Whether it's the holiday season or a vacation for no reason, always be ready to bring out your best with Manish Malhotra Vacation-Ready Makeup Combo! Accentuate your finest features with Manish Malhotra Face & Body Highlighter. Draw attention to your eyes with Manish Malhotra Glitter Eyeliner.",
+            "image": "https://files.myglamm.com/site-images/800x800/CSS1.png",
+            "category": "Makeup",
+            "rating": 4,
+            "price": 1123,
+            "id": "2"
+        },
+        {
+            "name": "GEL FINISH NAIL LACQUER",
+            "description": "You’ve got that summer-ready manicure with the perfect shape. Dress your nails up in summer sophistication with Manish Malhotra Gel Finish Nail Lacquer by MyGlamm. Featuring 20 luxe pastel shades inspired by all things summer, with a hi-shine, gel finish. Its non-toxic, quick-drying formula delivers salon-ready nails in a single stroke",
+            "image": "https://files.myglamm.com/site-images/800x800/MM1_1.jpg",
+            "category": "Makeup",
+            "rating": 3,
+            "price": 538,
+            "id": "3"
+        },
+        {
+            "name": "POSE HD BANANA POWDER",
+            "description": "Wake & Bake like the queen of contouring, Kim K with the POSE Banana Powder by MyGlamm. This yellow powder mattifies and sets your makeup, giving your skin a natural radiance for a picture-perfect look. Your skin’s superhero, it controls shine, blurs fine lines, prevents creasing, colour corrects visible redness, evens out your complexion",
+            "image": "https://files.myglamm.com/site-images/800x800/PSB1_1.jpg",
+            "category": "Makeup",
+            "rating": 4,
+            "price": 650,
+            "id": "4"
+        },
+        {
+            "name": "COMBO OF 3 LIT NAIL ENAMEL",
+            "description": "The glossy LIT Nail Enamels by MyGlamm promise super long-wear time, guaranteeing endless nights of fun with your digits—whether it’s in real time or some good ol’ sexting. Nothing sets the mood quite like the smooth wet finish of glistening bright nails. ",
+            "image": "https://files.myglamm.com/site-images/800x800/LIT-NAIL-ENAMEL-3-combo-1-2_1.jpg",
+            "category": "Makeup",
+            "rating": 4,
+            "price": 399,
+            "id": "5"
+        },
+        {
+            "name": "SUPER SERUM BB CREAM - 201 PINE - 15G",
+            "description": "Powered by magical Hyaluronic Acid, which can hold 1000X its weight in water, to retain skin moisture as well as add bounce and suppleness. This BB cream is infused with Niacinamide that helps fade dark spots and antioxidant-rich Kakadu Plum that gives your skin a natural glow. The cream formula provides a non-cakey, natural-looking, radiant finish. ",
+            "image": "https://files.myglamm.com/site-images/800x800/Pine15.jpg",
+            "category": "Makeup",
+            "rating": 4,
+            "price": 199,
+            "id": "6"
+        },
+        {
+            "name": "POPXO MAKEUP - SEND NOODS - 4 EYESHADOW KIT",
+            "description": "For all you divas on-the-go, this mini eyeshadow palette is perfect for beginners as well as professional makeup artists. Easy to use and intensely pigmented, this formula delivers a rich colour payoff in just one swipe. But that's not it! You can also use this multi-tasking eye shadow kit for contouring, highlighting and adding a flush of colour to your cheeks. ",
+            "image": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
+            "category": "Makeup",
+            "rating": 5,
+            "price": 276,
+            "id": "7"
+        },
+        {
+            "name": "LIPSTICK + LIT VELVET MATTE LIQUID LIPSTICK",
+            "description": "A smooth, creamy mousse formula, MyGlamm LIT Velvet Matte Liquid Lipstick is poppin’ with pigment. This true matte gives one swipe pigmentation for super-saturated payoff. Infused with vitamin E and silicone oils, the moisturising matte glides on the lips for a comfy and cushy feel. ",
+            "image": "https://files.myglamm.com/site-images/800x800/Yummy-1-1_1.jpg",
+            "category": "Makeup",
+            "rating": 755,
+            "price": 2,
+            "id": "8"
+        },
+        {
+            "name": "K.PLAY FLAVOURED BLUSH - FROZEN RASPBERRY",
+            "description": "Flavoured Blush by MyGlamm. Infused with fresh fruity flavours, this mattifying blush lasts really long and gives you that healthy, flushed look. And, don’t worry about patchiness, it’s smooth blending all the way.",
+            "image": "https://files.myglamm.com/site-images/800x800/Frozen-(1).jpg",
+            "category": "Makeup",
+            "rating": 4,
+            "price": 525,
+            "id": "9"
+        },
+        {
+            "name": "POSE HD SETTING POWDER - IVORY",
+            "description": "Get ready to take centre stage anytime, anywhere with the POSE Setting Powder by MyGlamm, your cheat code to flawless skin. This high definition translucent setting powder brightens and evens out your skin. It also hydrates, protects your skin from pollution and blurs fine lines and imperfections.",
+            "image": "https://files.myglamm.com/site-images/800x800/PseStngPwd-(1).jpg",
+            "category": "Makeup",
+            "rating": 4,
+            "price": 649,
+            "id": "10"
+        },
+        {
+            "name": "LIT LIQUID MATTE LIPSTICK + SUPERFOODS KAJAL",
+            "description": "You found The One! Trust us, ladies, this liquid matte lipstick will be your new love! The LIT Liquid Matte Lipstick by MyGlamm gives you soft, kiss-proof lips, no smudges or transfers, just pure, intense colour! Best of all, its enriched with Moringa Oil that moisturises and smoothens dry, damaged lips.",
+            "image": "https://files.myglamm.com/site-images/800x800/re1.jpg",
+            "category": "Makeup",
+            "rating": 5,
+            "price": 525,
+            "id": "11"
+        },
+        {
+            "name": "STAY DEFINED LIQUID EYELINER BROW POWDER",
+            "description": "Stay Defined 2 in 1 eyeliner and brow powder adds definition and depth to your eye game. Dramatic wing tips or minimal clean lines, the new and improved smart tip gives you all the control. The high-definition brow powder gives you fuller, sculpted eyebrows in just a few strokes. We promise all eyes will be on you! ",
+            "image": "https://files.myglamm.com/site-images/800x800/staydefined_3.jpeg",
+            "category": "Makeup",
+            "rating": 4,
+            "price": 620,
+            "id": "12"
+        },
+        {
+            "name": "POSE HD LIPSTICK & K.PLAY LIPGLOSS",
+            "description": "POSE Camera Ready HD Makeup - India’s first HD makeup line designed with Optical Blurring Technology especially for Indian skin tones.",
+            "image": "https://files.myglamm.com/site-images/800x800/TrRed-1-2.jpg",
+            "category": "Makeup",
+            "rating": 4,
+            "price": 1075,
+            "id": "13"
+        },
+        {
+            "name": "LIT LIP & EYE SPARKLES",
+            "description": " little bling goes a long way to make you the queen of the night. We're bringing the runway into real life with colour saturated grown up glamour, via our LIT Lip & Eye Sparkles by MyGlamm. Get cheeky and adventurous with just the right balance of shine and substance and layer it on to get immaculate, glittery, saturated lips worth dying for.",
+            "image": "https://files.myglamm.com/site-images/800x800/Herryl-1.jpg",
+            "category": "Makeup",
+            "rating": 4,
+            "price": 400,
+            "id": "14"
+        },
+        {
+            "name": "FLAWLESS FINISH - DUSKY",
+            "description": " An all-in-one foundation with a long-lasting formula that fuses primer and foundation in one easy step! An amazing combination product for a flawless base that provides sheer to full buildable coverage. It includes a primer that prolongs wear for impeccable results. Also in the palette are two color correctors, yellow and orange, to smooth away small imperfections, uneven skin tone, discolorations and dark circles. ",
+            "image": "https://files.myglamm.com/site-images/800x800/ff-dusky-glow-glamour-1.jpeg",
+            "category": "Makeup",
+            "rating": 3,
+            "price": 449,
+            "id": "15"
+        },
+        {
+            "name": "TOTAL MAKEOVER FF CREAM FOUNDATION PALETTE - HONEY",
+            "description": "Honey - perfect for medium and warm-beige to medium-golden complexions. It pairs best with Warm Skin Tones on the yellow, peachy or golden spectrum. It is also PETA Approved cruelty-free and vegan.",
+            "image": "https://files.myglamm.com/site-images/800x800/Honey-(1).jpg",
+            "category": "Makeup",
+            "rating": 5,
+            "price": 725,
+            "id": "16"
+        },
+        {
+            "name": "SPOTLIGHT ILLUMINATING LIQUID - STARDUST",
+            "description": "The easiest way to glowing, healthy-looking skin starts with MyGlamm's Spotlight. One drop of this strobing liquid lends your skin a natural, dewy radiance. Enriched with Instant Remodelling technology it acts on the skin's natural lifting properties to give you that heavenly glow – instantly!",
+            "image": "https://files.myglamm.com/site-images/800x800/Stardst-(1).jpg",
+            "category": "Makeup",
+            "rating": 1,
+            "price": 399,
+            "id": "17"
+        },
+        {
+            "name": "PURE LOVE SINDOOR - ROYAL MAROON",
+            "description": "The pious essence of tradition blended with a contemporary, long-lasting formula results in this liquid sindoor — an everyday essential for the modern, Indian woman. Infused with soothing Sandalwood fragrance, MyGlamm Pure Love Sindoor is designed with a brush-tip applicator. High-pigment colour that dries quick and doesn’t smudge, fade or crease — making it ideal for everyday use. Free from hazardous ingredients like Lead and Mercury. ",
+            "image": "https://files.myglamm.com/site-images/800x800/RM1.jpg",
+            "category": "Makeup",
+            "rating": 5,
+            "price": 134,
+            "id": "18"
+        },
+        {
+            "name": "BESTSELLER LIPSTICK DUO",
+            "description": " ‘The Art of Gifting’ collection. It contains two of our bestselling lipstick shades – Manish Malhotra Hi-Shine Lipstick in Vintage Wine and Manish Malhotra Soft Matte Lipstick in Blush Rose. Packed in an elegant matte-black and gold gift box, this luxurious lipstick combo takes your lips from 0 to 100 in a single stroke",
+            "image": "https://files.myglamm.com/site-images/800x800/1-3_1.png",
+            "category": "Makeup",
+            "rating": 2,
+            "price": 299,
+            "id": "19"
+        },
+        {
+            "name": " STARRY SOIRÈE MAKEUP KIT",
+            "description": "Gracefully packed in an elegant matte-black and rose gold gift box, this beauty gift kit contains Manish Malhotra Face & Body Highlighter - Blaze for the ultimate glow goddess look; Manish Malhotra 9 in 1 Eyeshadow Palette - Enchanté for eyes that steal the spotlight. For the lips, go ultra-matte with Manish Malhotra Liquid Matte Lipstick - Crazier Than Pink or be the gloss queen with Manish Malhotra Hi-Shine Lipstick - Moroccan Red and Manish Malhotra Hi-Shine Lipgloss - Gold Dust. Now, look no further and treat yourself and your loved ones with this show-stopping makeup gift set. ",
+            "image": "https://files.myglamm.com/site-images/800x800/STSR1.jpg",
+            "category": "Makeup",
+            "rating": 2,
+            "price": 1000,
+            "id": "20"
+        },
+        {
+            "name": "GLITTER MASCARA TOPCOAT",
+            "description": "Glitter Mascara Topcoat by MyGlamm is just the drama you need to go full glamm! The special gel formula is made with ingredients known for their soothing and softening properties. While you're at it, gilt your brows as well.",
+            "image": "https://files.myglamm.com/site-images/800x800/12-Glitter-Mascara-Topcoat-post-1-Gold.jpg",
+            "category": "Makeup",
+            "rating": 3,
+            "price": 589,
+            "id": "21"
+        },
+        {
+            "name": "name22",
+            "description": "Be Easy On The Eyes with this combo, which has two of our best selling products - Powder Magic in Smoky Quartz and Stay Defined Liquid Eyeliner + HD Brow Powder. Powder Magic in Smoky Quartz is a shimmery brown eyeshadow pencil that's super-easy to apply. Just fill in your lids and voila!—you're all glammed up! Stay Defined has a black Liquid Eyeliner to define the eyes and an HD Brow Powder for naturally fuller brows.",
+            "image": "https://files.myglamm.com/site-images/800x800/12-powder-magic-sq-n-staydefined-1.jpeg",
+            "category": "Makeup",
+            "rating": 5,
+            "price": 925,
+            "id": "22"
+        },
+        {
+            "name": "SHARP EYES- AQUAMARINE",
+            "description": "Powder Magic is an innovative pressed powder in a jumbo pencil form. It allows you to create dramatic or natural eyeshadow looks with ease and precision. Its smouldering formula adds depth and dimension to your eyes in seconds. A shimmery pressed powder shadow, in gorgeous hues, sweeps across lids, over and under lash lines making your eyes appear sultry and smouldering instantly.",
+            "image": "https://files.myglamm.com/site-images/800x800/stay-defined-aquamarine-1.jpeg",
+            "category": "Makeup",
+            "rating": 1,
+            "price": 165,
+            "id": "23"
+        },
+        {
+            "name": "EYE IT MAKEUP KIT",
+            "description": "It's the IT Kit that's all the rage on and off the runway. You can't go wrong with it. It includes Manish Malhotra Beauty by MyGlamm Mascara in Dark Knight and Glitter Eyeliner in Dazzle.",
+            "image": "https://files.myglamm.com/site-images/800x800/PDP-BG.jpg",
+            "category": "Makeup",
+            "rating": 3,
+            "price": 1199,
+            "id": "24"
+        },
+        {
+            "name": "COMBO OF 2 GEL FINISH NAIL LACQUER",
+            "description": "Gel Finish Nail Lacquer by MyGlamm. Featuring 20 luxe pastel shades inspired by all things summer, with a hi-shine, gel finish. Its non-toxic, quick-drying formula delivers salon-ready nails in a single stroke. Get that glossy gel look on the go with long-lasting shine! From classic nudes and sandy pinks to pistachio greens and calm blues, explore the shades of summer with Manish Malhotra Beauty.",
+            "image": "https://files.myglamm.com/site-images/800x800/15-Manish-Malhotra-Nail-Lacquer-Post-1-Sugar-Dust-(1).jpg",
+            "category": "Makeup",
+            "rating": 2,
+            "price": 459,
+            "id": "25"
+        },
+        {
+            "name": "MOROCCAN ARGAN HAIR SHAMPOO, 300ML",
+            "description": "Moroccan Argan Shampoo is created using natural ingredients and plant extracts. It thoroughly cleanses the scalp without leaving residue. This Moroccan Argan Oil Shampoo leaves your hair smooth and frizz-free while giving it naturally-powered nourishment and care for soft, manageable hair. It also helps remove dandruff from your scalp.",
+            "image": "https://files.myglamm.com/site-images/800x800/STBOT469-11.jpg",
+            "category": "Haircare",
+            "rating": 5,
+            "price": 476,
+            "id": "26"
+        },
+        {
+            "name": "UPERFOODS CACAO, COCONUT & COFFEE SHAMPOO - 200ML",
+            "description": "Is flaky and itchy scalp stealing your hair’s natural shine? Recharge them with MyGlamm SUPERFOODS Cacao, Coffee, & Coconut Shampoo. The star ingredient - Cacao offers unparalleled moisturisation and zinc pyrithione helps in treating Dandruff. This shampoo also has Coffee extracts which stimulate blood flow for healthy hair growth. Treats frizzy hair with the nourishing action of Cold Pressed Coconut Oil that completes the holy trio of this cleansing formula. Get ready to flaunt shinier, smoother, and stronger hair every day.",
+            "image": "https://files.myglamm.com/site-images/800x800/SHP-(1).jpg",
+            "category": "Haircare",
+            "rating": 4,
+            "price": 599,
+            "id": "27"
+        },
+        {
+            "name": "ORIENTAL BOTANICS BHRINGRAJ & AMLA HAIR SHAMPOO, 300ML",
+            "description": "Bhringraj & Amla are the key ingredients to healthy hair growth. Selected from your grandma’s favourite recipe, the formulation contains premium natural ingredients that are boasted to keep the hair thick and lustrous. The effective ingredients will gently clear your scalp without disturbing the natural moisture barrier of your scalp. It will also prevent your hair from natural wear & tear to reduce premature breakage and split ends. Infused with natural Vitamins, Minerals & Amino Acids, it will also help infuse strength into your follicles and prevent hair fall.",
+            "image": "https://files.myglamm.com/site-images/800x800/22ad8250-1fb9-11ec-83b7-c7f6905fb4221.jpg",
+            "category": "Haircare",
+            "rating": 5,
+            "price": 355,
+            "id": "28"
+        },
+        {
+            "name": "PASSION FRUIT & ROSEMARY SHAMPOO 300ML",
+            "description": "Tired of dealing with dry, dull hair that’s lost its shine from heat styling, hair colour and pollution? Supercharge your tresses with the MyGlamm SUPERFOODS Passion Fruit & Rosemary Shampoo. Enriched with nourishing natural extracts from the superfoods passion fruit and rosemary, this mild yet powerful formulation works on your hair from the root to restore its natural shine and lustre, for hair that looks gorgeous and feels silky-smooth. The restorative properties of rosemary help reverse damage to reveal hair that feels healthy.",
+            "image": "https://files.myglamm.com/site-images/800x800/Passion-Fruit--Rosemary-Shampoo.jpg",
+            "category": "Haircare",
+            "rating": 3,
+            "price": 310,
+            "id": "29"
+        },
+        {
+            "name": "MYGLAMM SUPERFOODS ONION & MORINGA CONDITIONER - FLAT PRICE",
+            "description": "This Onion Hair conditioner is uniquely formulated with all-natural, superfood ingredients, handpicked for their efficacy. The nutrition-rich Onion Conditioner replenishes and strengthens your hair, combats hair breakage, and keeps them soft. High concentrations of onion seed oil in this hair conditioner deeply nourishes hair and promotes hair health. Moringa, a powerful superfood, strengthens & smoothens hair without drying them. Shea butter, an added ingredient in this hair conditioner, detangles and quenches dry, damaged hair while repairing split ends and restoring shine to it.",
+            "image": "https://files.myglamm.com/site-images/800x800/Product-1-2.jpg",
+            "category": "Haircare",
+            "rating": 4,
+            "price": 199,
+            "id": "30"
+        },
+        {
+            "name": "MYGLAMM SUPERFOODS ONION & MORINGA CONDITIONER - 200ML",
+            "description": "his Onion Hair conditioner is uniquely formulated with all-natural, superfood ingredients, handpicked for their efficacy. The nutrition-rich Onion Conditioner replenishes and strengthens your hair, combats hair breakage, and keeps them soft. High concentrations of onion seed oil in this hair conditioner deeply nourishes hair and promotes hair health. Moringa, a powerful superfood, strengthens & smoothens hair without drying them.",
+            "image": "https://files.myglamm.com/site-images/800x800/Artboard-1-(2).jpg",
+            "category": "Haircare",
+            "rating": 2,
+            "price": 195,
+            "id": "31"
+        },
+        {
+            "name": "MYGLAMM SUPERFOODS ONION & MORINGA HAIR OIL - 100ML",
+            "description": "Onion Seed Oil hair range is uniquely formulated with all-natural, superfood ingredients handpicked for their efficacy. This nutrition-rich Onion Oil nourishes the scalp, strengthens your hair, combats hair fall, and promotes hair growth. High concentrations of onion seed oil in this hair oil deeply nourishes roots, stimulates them, and promote hair health. The onion seed oil is extracted using the cold press extraction method which ensures that the nutrients remain intact all the way from the bottle to your scalp.",
+            "image": "https://files.myglamm.com/site-images/800x800/Artboard-1_27.jpg",
+            "category": "Haircare",
+            "rating": 5,
+            "price": 369,
+            "id": "32"
+        },
+        {
+            "name": "SUPERFOODS ONION & MORINGA SERUM - 100ML",
+            "description": "This onion hair serum is uniquely formulated with all-natural, superfood ingredients handpicked for their efficacy. The nutrition-rich anti-hair fall serum replenishes and strengthens your hair, combats hair breakage, and keeps them soft. High concentrations of onion seed oil in this hair growth serum deeply nourishes hair and prevents frizz. ",
+            "image": "https://files.myglamm.com/site-images/800x800/Artboard-1-(3).jpg",
+            "category": "Haircare",
+            "rating": 2,
+            "price": 288,
+            "id": "33"
+        },
+        {
+            "name": "SUPERFOODS MANGOSTEEN & AVOCADO HAIR MASK 50G",
+            "description": "SUPERFOODS Mangosteen & Avocado Hair Mask. Enriched with a nourishing blend of Mangosteen and Avocado extracts, this creamy hair mask works on your hair to strengthen, repair and nourish it from root to tip. Mangosteen fruit pulp contains antioxidants and helps revitalize and strengthen hair, while avocado is rich in fatty acids that provides intense hydration and makes your hair feel soft, smooth and frizz-free.",
+            "image": "https://files.myglamm.com/site-images/800x800/Mangosteen---Avocado-Hair-Mask-1_2.jpg",
+            "category": "Haircare",
+            "rating": 4,
+            "price": 349,
+            "id": "34"
+        },
+        {
+            "name": "ST.BOTANICA MOROCCAN ARGAN HAIR MASK, 200ML",
+            "description": "Argan Hair Mask is a rich and moisturising Argan Oil hair mask that combines the goodness of natural ingredients to help lend extraordinary softness to your strands. Devoid of any harmful chemicals, this ultra-nourishing mask will help provide hydration and deep conditioning to your tresses.",
+            "image": "https://files.myglamm.com/site-images/800x800/STBOT779-13.jpg",
+            "category": "Haircare",
+            "rating": 1,
+            "price": 570,
+            "id": "35"
+        },
+        {
+            "name": "SUPERFOODS ONION & MORINGA HAIR CARE COMBO - SHAMPOO + OIL",
+            "description": "This hair care combo of anti-hair fall oil and shampoo is uniquely formulated with all-natural, superfood ingredients, handpicked for their efficacy. Say goodbye to all your hair care woes with this onion oil and shampoo duo! High concentrations of onion seed oil deeply nourishes roots, stimulates them, and promotes hair health.",
+            "image": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo1.jpg",
+            "category": "Haircare",
+            "rating": 4,
+            "price": 415,
+            "id": "36"
+        },
+        {
+            "name": "EXOTIC NOURISHMENT - SHAMPOO, CONDITIONER & HAIR MASK COMBO",
+            "description": "This range harnesses the power of nature’s best Superfoods, handpicked for their efficacy and natural goodness. These superstar ingredients are infused to make your hair super healthy and super nourished. Enriched with nourishing natural extracts from the Superfoods - Passion fruit, Rosemary and Olive Oil, the shampoo and conditioner work on your hair from the roots to restore its natural shine and lustre -- for hair that looks gorgeous and feels silky-smooth. The Mangosteen & Avocado Hair Mask also has natural extracts & pro-vitamin B5 that helps balance hair’s natural moisture levels & panthenol that improves hair’s shine & strength. ",
+            "image": "https://files.myglamm.com/site-images/800x800/Exotic-Nourishment---Shampoo,-Conditioner-&-Hair-Mask-Combo.jpg",
+            "category": "Haircare",
+            "rating": 4,
+            "price": 799,
+            "id": "37"
+        },
+        {
+            "name": "SUPERFOODS ONION & MORINGA HAIR CARE COMBO - SHAMPOO + CONDITIONER + OIL + SERUM",
+            "description": "This hair care combo is uniquely formulated with all-natural, superfood ingredients, handpicked for their efficacy. Say goodbye to all your hair care woes with this hair care kit! The nutrition-rich Onion Shampoo gently cleanses and strengthens your hair, combats hair fall, and promotes hair growth. High concentrations of onion seed oil deeply nourishes roots, stimulates them, and promotes hair health. Moringa, a powerful superfood, strengthens & smoothens hair without drying them.",
+            "image": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates--Combo-05.jpg",
+            "category": "Haircare",
+            "rating": 5,
+            "price": 740,
+            "id": "38"
+        },
+        {
+            "name": "UPERFOODS ONION & MORINGA HAIR CARE COMBO - SHAMPOO + CONDITIONER + OIL",
+            "description": "This combo of shampoo, conditioner and hair oil is uniquely formulated with all-natural, superfood ingredients, handpicked for their efficacy. Say goodbye to all your hair care woes with this onion hair oil shampoo and conditioner pack! High concentrations of onion seed oil deeply nourishes roots, stimulates them, and promotes hair health.",
+            "image": "https://files.myglamm.com/site-images/800x800/Superfoods-Amazom-Slates-Combo-03.jpg",
+            "category": "Haircare",
+            "rating": 2,
+            "price": 655,
+            "id": "39"
+        },
+        {
+            "name": "SUPERFOODS SUPER HAIR NOURISHER",
+            "description": "A super effective nourishing and strengthening duo! Treat your hair to some love and care with MyGlamm Superfoods Onion & Moringa Hair Oil and MyGlamm Superfoods Onion & Moringa Serum - powered with high concentration of cold-pressed Onion Seed Oil, Moringa Oil, Bhringraj Oil, Sesame Oil, Castor, and Almond Oil",
+            "image": "https://files.myglamm.com/site-images/800x800/SF--Super-Hair-Nourisher-2.jpg",
+            "category": "Haircare",
+            "rating": 3,
+            "price": 530,
+            "id": "40"
+        },
+        {
+            "name": "GOOD HAIR DAY - CONDITIONER & HAIR SERUM COMBO",
+            "description": "The nutrition-rich Onion Conditioner replenishes and strengthens your hair, combats hair breakage, and keeps them soft. Along with this is the Onion and Moringa serum prevents hair frizz and smoothens them without any compromise on its bounce and volume.  With this super nourishing Superfoods hair care combo we’re sure you’re never going to have a bad hair day! ",
+            "image": "https://files.myglamm.com/site-images/800x800/Good-Hair-Day-Conditioner-Hair-Serum-Combo.jpg",
+            "category": "Haircare",
+            "rating": 4,
+            "price": 460,
+            "id": "41"
+        },
+        {
+            "name": "SUPERFOODS DAMAGE REPAIR DUO",
+            "description": "Your ideal 2-step hydration routine! Say goodbye to damaged hair - give them the nourishment they deserve with MyGlamm Superfoods Passion Fruit & Rosemary Shampoo and MyGlamm Superfoods Mangosteen & Avocado Hair Mask.",
+            "image": "https://files.myglamm.com/site-images/800x800/SF--Damage-Repair.jpg",
+            "category": "Haircare",
+            "rating": 5,
+            "price": 699,
+            "id": "42"
+        },
+        {
+            "name": "MOROCCAN ARGAN HAIR SERUM, 120ML",
+            "description": "Moroccan Argan Hair Serum is developed using premium natural oils and plant-based ingredients. This Moroccan Oil serum ensures smooth and shiny hair. This dry hair serum helps moisturise dry hair without making it greasy, and makes hair smooth and glossy.",
+            "image": "https://files.myglamm.com/site-images/800x800/STBOT340-11.jpg",
+            "category": "Haircare",
+            "rating": 1,
+            "price": 480,
+            "id": "43"
+        },
+        {
+            "name": "WATERMELON & ALOE BODY WASH 300ML",
+            "description": "Aloe vera extracts soothe and heal inflamed skin while adding an instant boost of hydration. All-in-all, this watermelon & aloe vera body wash will give you a  superior bathing experience that leaves your skin feeling soft and supple.",
+            "image": "https://files.myglamm.com/site-images/800x800/Watermelon---Aloe-Body-Wash-1_1.jpg",
+            "category": "Bath",
+            "rating": 3,
+            "price": 380,
+            "id": "44"
+        },
+        {
+            "name": "OJI BERRY BODY WASH WITH VITAMIN C, FOR GLOWING SKIN",
+            "description": "he natural cleansing agents form a rich, bubbly lather which gently cleanses off the dirt to leave skin gleaming and healthy. Rich in chock-full of antioxidants, this body wash targets pigmented and dull skin. The tiny red Goji Berry is loaded with 500X more Vitamin C than Oranges* and it helps promote collagen production",
+            "image": "https://files.myglamm.com/site-images/800x800/Goji-Berry-Body-Wash-300-ml.jpg",
+            "category": "Bath",
+            "rating": 1,
+            "price": 215,
+            "id": "45"
+        },
+        {
+            "name": "ORIENTAL BOTANICS ALOE VERA, GREEN TEA & CUCUMBER BODY WASH / SHOWER GEL, 250ML",
+            "description": "Enjoy a luxurious spa-like experience from the comfort of your home with Oriental Botanics Aloe Vera, Green Tea & Cucumber Body Wash. Infused with skin friendly ingredients, the Body Wash will cleanse your skin of dirt, grime and impurities to leave the fresh feeling lingering all day. The gentle formulation takes care of the skin while eliminating the toil of the day. The ideal blend of nourishing ingredients ensures your skin stays moisturized and hydrated after you step out of the shower",
+            "image": "https://files.myglamm.com/site-images/800x800/9521cfa0-1fb7-11ec-9956-f11381c8bb2c1.jpg",
+            "category": "Bath",
+            "rating": 2,
+            "price": 430,
+            "id": "46"
+        },
+        {
+            "name": "WIPEOUT GERM KILLING BODY WASH",
+            "description": "Calming, purifying and nourishing, the WIPEOUT Germ Killing Body Wash by MyGlamm is enriched with tea tree oil, chamomile and lavender. This gentle antimicrobial body wash is also infused with skin-regenerating and germ-killing ingredients that cleanse, purify and protect your skin around the clock!",
+            "image": "https://files.myglamm.com/site-images/800x800/Body-wash_4.jpg",
+            "category": "Bath",
+            "rating": 5,
+            "price": 160,
+            "id": "47"
+        },
+        {
+            "name": "ST.BOTANICA BULGARIAN ROSE OTTO GLOW BODY WASH / SHOWER GEL, 250 ML",
+            "description": "This body wash gel aromatized with the delightful fragrance of Bulgarian Rose Otto cleanses deeply and rejuvenates the body. Enriched with premium natural skin conditioning agents, it leaves the skin supple and radiant.",
+            "image": "https://files.myglamm.com/site-images/800x800/7e81e670-1fa5-11ec-9d44-3d19798b19751.jpg",
+            "category": "Bath",
+            "rating": 3,
+            "price": 265,
+            "id": "48"
+        },
+        {
+            "name": "SUPERFOODS HYDRATING & REJUVENATING COMBO",
+            "description": "Nourish and hydrate your body with MyGlamm Superfoods Cacao & Berries Shower Gel and MyGlamm Superfoods Watermelon & Aloe Body Lotion. Enriched with antioxidant-rich ingredients this duo deeply cleanses your skin without stripping off its natural oils  and locks in the moisture post-shower & hydrates your skin from within!",
+            "image": "https://files.myglamm.com/site-images/800x800/SF--Hydrates-&-Rejuvenates.jpg",
+            "category": "Bath",
+            "rating": 4,
+            "price": 480,
+            "id": "49"
+        },
+        {
+            "name": "name50",
+            "description": " WIPEOUT Sanitizing products are mean, clean, germ-killing machines.  These special products not only ensure total protection , but also offer the goodness of natural ingredients. This combo is your ultimate solution to germ-free, squeaky-clean skin.",
+            "image": "https://files.myglamm.com/site-images/800x800/Clean-Kill-Body-Wash-Soap-Combo.jpg",
+            "category": "Bath",
+            "rating": 3,
+            "price": 280,
+            "id": "50"
+        },
+        {
+            "name": "MYGLAMM CACAO & BERRIES SHOWER GEL WITH SUPERFOODS POUCH",
+            "description": "Enriched with antioxidant-rich ingredients like Cacao powder, Strawberry, Mulberry and Black Currant, this foaming shower gel protects your skin against free radical damage. The unique gel formula deeply cleanses your skin without stripping off its natural oils. Thanks to Vitamin E and B5,  this shower gel not only brightens the skin but also gives anti-inflammatory properties. All-in-all, the Cacao & Berries shower gel will make sure that you have a refreshing shower experience every single time. ",
+            "image": "https://files.myglamm.com/site-images/800x800/SHWW-(1).jpg",
+            "category": "Bath",
+            "rating": 2,
+            "price": 387,
+            "id": "51"
+        },
+        {
+            "name": "WIPEOUT GERM KILLING SOAP - 75G",
+            "description": "WIPEOUT Germ Killing Soap by MyGlamm is the perfect start and finish to a long day. This anti-microbial bathing bar contains nourishing cocoa butter, enriched with germ-killing chlorhexidine with tea tree oil and healing coconut extracts to give you germ-free soft, supple and squeaky clean skin.",
+            "image": "https://files.myglamm.com/site-images/800x800/Cocoa-butter-tra-tree-oil-Soap.jpg",
+            "category": "Bath",
+            "rating": 3,
+            "price": 65,
+            "id": "52"
+        },
+        {
+            "name": "24X7 GERM PROTECTION",
+            "description": "Shield yourself from germs, infections, and other nasties with the 24x7 Germ Protection WIPEOUT Safety Kit. This kit includes a face wash, body wash, body lotion, hand cream, foot cream, bathing soap, a set of sanitizing wipes, a pack of cleansing towels and 4 hand sanitizers.",
+            "image": "https://files.myglamm.com/site-images/800x800/24x7-germ-protection-1_1.jpg",
+            "category": "Bath",
+            "rating": 5,
+            "price": 630,
+            "id": "53"
+        },
+        {
+            "name": "OSE AND STRAWBERRY BRIGHTENING BEAUTY BAR SET OF 2",
+            "description": "Supercharge your skin with MyGlamm Rose & Strawberry Brightening Beauty Bar. Indulge in a relaxing bath with an intoxicating rose scent, while the antioxidant properties of strawberry extracts brighten your skin from within. Infused with the goodness of coconut and glycerin, this revitalising soap soothes and locks in your skin’s moisture. This rose-shaped soap bar will surely lift up your spirits, keeping it baby soft throughout the day. ",
+            "image": "https://files.myglamm.com/site-images/800x800/01-Valentine-s-Day-Soap-PDP_1.jpg",
+            "category": "Bath",
+            "rating": 2,
+            "price": 299,
+            "id": "54"
+        },
+        {
+            "name": "MYGLAMM WIPEOUT HYDRATED SKIN TRIO",
+            "description": "Be 100% summer-ready with MyGlamm WIPEOUT Hydrated Skin Trio. Take a rejuvenating shower with MyGlamm WIPEOUT Germ Killing Soap - Rose & Honey. Cleanse and protect your face with MyGlamm WIPEOUT Germ Killing Face Wash - Rose & Honey. Keep B.O. and germs at bay with MyGlamm WIPEOUT Germ Killing Body Spray. ",
+            "image": "https://files.myglamm.com/site-images/800x800/Face-Wash,-Soap,-Deo-.jpg",
+            "category": "Bath",
+            "rating": 1,
+            "price": 499,
+            "id": "55"
+        },
+        {
+            "name": "GLOW IRIDESCENT BRIGHTENING BODY LOTION",
+            "description": "A calming and soothing body moisturiser, the GLOW Iridescent Brightening Body Lotion by MyGlamm melts into your skin leaving it iridescent and dewy. Rosehip oil forms a natural skin barrier which prevents dryness. ",
+            "image": "https://files.myglamm.com/site-images/800x800/BBL-(1).jpg",
+            "category": "Bath",
+            "rating": 5,
+            "price": 479,
+            "id": "56"
+        },
+        {
+            "name": "IT XOXO FRAGRANCE - VALENTINE RANGE - FLIRTY",
+            "description": "XOXO LIT Fragrance Range, limited-edition perfumes crafted for every type of love. Spark a conversation of love that reflects your persona — be it bold & passionate, coy & dreamy-eyed or a sucker for spontaneity. Because whatever your love language may be, these 5 fascinating fragrances have your back.",
+            "image": "https://files.myglamm.com/site-images/800x800/Flrt1.jpg",
+            "category": "Bath",
+            "rating": 3,
+            "price": 379,
+            "id": "57"
+        },
+        {
+            "name": " WIPEOUT GERM KILLING BODY SPRAY - 40ML",
+            "description": "WIPEOUT Germ Killing Body Spray by MyGlamm! Enriched with lemon and clove oil, this antimicrobial body spray kills germs. This no gas deo is packed with a lasting fragrance that keeps you smelling fresh and germ-free all day!This perfume spray is suitable for men, women and children over 6 years.",
+            "image": "https://files.myglamm.com/site-images/800x800/Wipeout-Deo.jpg",
+            "category": "Bath",
+            "rating": 80,
+            "price": 130,
+            "id": "58"
+        },
+        {
+            "name": "WIPEOUT GERM KILLING HAND WASH - TEA TREE - 200ML",
+            "description": "this hand wash provides protection against germs and is suitable for all skin types and age groups. Additionally, it also hydrates and moisturises your skin, thanks to Aloe Vera and Glycerin. Just one pump is enough to deliver a fluffy cloud of foam – so that you get soft, fragrant and germ-free hands with every wash! ",
+            "image": "https://files.myglamm.com/site-images/800x800/HND1.jpg",
+            "category": "Bath",
+            "rating": 3,
+            "price": 140,
+            "id": "59"
+        },
+        {
+            "name": "WIPEOUT GERM KILLING FOOT CREAM - 60G",
+            "description": "Stay safe every step of the way with the WIPEOUT Germ Killing Foot Cream by MyGlamm. This standout antimicrobial foot cream that features a base of emollient cocoa butter, infused with purifying lavender oil and anti-inflammatory ginger oil.",
+            "image": "https://files.myglamm.com/site-images/800x800/Foot-cream.jpg",
+            "category": "Bath",
+            "rating": 2,
+            "price": 179,
+            "id": "60"
+        },
+        {
+            "name": "WIPEOUT GERM KILLING BODY WASH - LAVENDER & NEEM",
+            "description": "Kickstart your mornings with our refreshing and protective Germ Killing Body Wash, an invigorating formula enriched with germ-killing chlorhexidine; that protects you from germs, for clean and refreshed skin. This purifying body wash is also formulated with natural extracts.",
+            "image": "https://files.myglamm.com/site-images/800x800/LVNM-(1).jpg",
+            "category": "Bath",
+            "rating": 4,
+            "price": 199,
+            "id": "61"
+        },
+        {
+            "name": "POPXO SHEET MASK PACK OF 2",
+            "description": "With natural favourites and skin gredient heroes combined, this soothing sheet mask leaves you worry-free and glowing. 20-minute solution to resolve redness, irritated skin and reduce dullness, pigmentation caused by sun exposure.",
+            "image": "https://files.myglamm.com/site-images/800x800/No-1-Sheet-Mask---Open-product-final.png",
+            "category": "Skincare",
+            "rating": 3,
+            "price": 187,
+            "id": "62"
+        },
+        {
+            "name": "GLOW IRIDESCENT BRIGHTENING SHEET MASK",
+            "description": "A natural moisturiser, rosehip oil seeps deep into your skin, nurturing and healing it, giving you soft, supple skin. This silky-soft sheet mask is soaked with a highly concentrated protein essence that lifts and boosts your skin with a healthy dose of nutrition for an iridescent dewy glow.",
+            "image": "https://files.myglamm.com/site-images/800x800/1-(1)_3.jpg",
+            "category": "Skincare",
+            "rating": 1,
+            "price": 194,
+            "id": "63"
+        },
+        {
+            "name": "WIPEOUT GERM KILLING FACE WASH - LAVENDER & NEEM",
+            "description": "he WIPEOUT Germ Killing Face Wash by MyGlamm is an antimicrobial daily foaming cleanser, enriched with the goodness of time-tested natural ingredients. It is a unique formula with germ-killing chlorhexidine; that gets rid germs resulting in clean and refreshed skin. This revitalizing face wash is also formulated with natural extracts.",
+            "image": "https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
+            "category": "Skincare",
+            "rating": 4,
+            "price": 86,
+            "id": "64"
+        },
+        {
+            "name": "POPXO FIRST KISS LIP BALM SPF 15",
+            "description": "No skin routine is complete without lip protection. If you’re stopping SPF application at just your skin - it’s time to do better (don’t worry, we’re here to help). The POPxo First Kiss Lip Balm SPF 15 is all you need to be both sun-kissed and kiss-ready.",
+            "image": "https://files.myglamm.com/site-images/800x800/LP1_4.png",
+            "category": "Skincare",
+            "rating": 2,
+            "price": 148,
+            "id": "65"
+        },
+        {
+            "name": "K.PLAY MANDARIN BRIGHTENING SHEET MASK",
+            "description": "Show your skin some lovin’ with the K.Play Mandarin Brightening Sheet Mask by MyGlammu0021 Enriched with the goodness of mandarin, this sheet mask will strengthen and rejuvenate your skin, bringing back its youthful radiance. It's also infused with white truffle, a natural moisturiser rich in minerals and vitamin B that brightens dull skin.",
+            "image": "https://files.myglamm.com/site-images/800x800/BRSGt-(1).jpg",
+            "category": "Skincare",
+            "rating": 3,
+            "price": 170,
+            "id": "66"
+        },
+        {
+            "name": "YOUTHFULL HYDRATING SLEEPING MASK WITH WATER BANK TECHNOLOGY",
+            "description": "A lightweight yet luxurious sleeping mask that works overnight; beauty sleep for your skin, literally! We delved deep into the secrets of the ocean to bring you an innovative formula with Water Bank Technology. It contains hyaluronic acid in a unique gel network that gets released when you apply it onto your skin.",
+            "image": "https://files.myglamm.com/site-images/800x800/Sleeping-Mask-Swatch.jpg",
+            "category": "Skincare",
+            "rating": 2,
+            "price": 745,
+            "id": "67"
+        },
+        {
+            "name": "POPXO GLOW GOALS ILLUMINATING SUNSCREEN SPF 30 PA+++ 30G",
+            "description": "It’s time to get lit-from-within skin. This heavyweight champion of the sunscreen world comes with SPF 30 PA +++, and the power of a vacay highlight combined! A unique, one-of-a-kind formula that will take your sunscreen game up a notch. Making a skin investment (that the future you will thank you for) just became a no brainer.",
+            "image": "https://files.myglamm.com/site-images/800x800/GGL1-(4)_1.png",
+            "category": "Skincare",
+            "rating": 5,
+            "price": 520,
+            "id": "68"
+        },
+        {
+            "name": "REVITALISING GOLDEN EYE MASK",
+            "description": "Revitalising Golden Eye Mask - a luxurious masking experience for brighter, younger-looking eyes. There is more to this unique honeycomb golden-mesh eye mask than what meets the eye. It is enriched with a potent formula that helps reduce the appearance of dark circles and puffiness.",
+            "image": "https://files.myglamm.com/site-images/800x800/eyeeee-(1).png",
+            "category": "Skincare",
+            "rating": 3,
+            "price": 260,
+            "id": "69"
+        },
+        {
+            "name": "K.PLAY SHEET MASK SET OF 3",
+            "description": "Show your skin some lovin’ with the K.Play Acai Berry Anti-oxidant Sheet Mask by MyGlammu0021 Enriched with the goodness of acai berry, this sheet mask will boost collagen production, rejuvenate the skin and protect it from pollution.",
+            "image": "https://files.myglamm.com/site-images/800x800/LYHSM-(5)_1.jpg",
+            "category": "Skincare",
+            "rating": 5,
+            "price": 359,
+            "id": "70"
+        },
+        {
+            "name": "HYDRATING GOLDEN LIP MASK",
+            "description": "ndulge in new-age lip care with Manish Malhotra Hydrating Golden Lip Mask - a luxurious masking experience for supple, plump and kissable lips. The unique honeycomb golden-mesh design is enriched with a thirst-quenching, hydrating formula. Indulge in the goodness of artisanal ingredients like Mulberry, Blueberry, Açaí Extract, Niacinamide, Aloe Leaf Juice and Glycerin for instant nourishment and gloss.",
+            "image": "https://files.myglamm.com/site-images/800x800/LIP-(3).png",
+            "category": "Skincare",
+            "rating": 4,
+            "price": 199,
+            "id": "71"
+        },
+        {
+            "name": "SUPERFOODS AVOCADO & ALOE EYE CREAM 30G",
+            "description": "Changing sleep patterns taking a toll on your under-eye skin? Let this superfood-infused eye cream come to the rescue. Formulated with Thai avocado extracts, this  eye cream is packed with fatty acids,  vitamin A, B & E that help nourish, heal & brighten your under-eye area. Not only does this eye cream reduce dark circles,",
+            "image": "https://files.myglamm.com/site-images/800x800/Artboard-1-3.jpg",
+            "category": "Skincare",
+            "rating": 4,
+            "price": 369,
+            "id": "72"
+        },
+        {
+            "name": "ILLUMINATING GOLDEN SHEET MASK",
+            "description": "Redefine the ‘golden hour’ radiance with Manish Malhotra Illuminating Golden Sheet Mask – a luxurious masking experience for a goddess-like glow. The unique honeycomb golden-mesh design is enriched with a skin-plumping, blemish-blurring formula. Indulge in the goodness of skin-loving ingredients like Tangerine Peel Extract, Niacinamide, Glycerin and Aloe Leaf Juice for instant hydration and illumination.",
+            "image": "https://files.myglamm.com/site-images/800x800/FAce-(1).png",
+            "category": "Skincare",
+            "rating": 2,
+            "price": 270,
+            "id": "73"
+        },
+        {
+            "name": "SUNDAY NIGHT INDULGENCE",
+            "description": "Your self-care starter pack, complete with the luxe touch of Manish Malhotra Skin Care Combo — Manish Malhotra Honey & Nutmeg Hydrating Sheet Mask for an instant skincare reboot, Manish Malhotra Cinnamon Ginger Night Gel for overnight skin rejuvenation, Manish Malhotra Rose Lip Moisturising Gel for gel-based lip healing, and Manish Malhotra Gel Finish Nail Lacquer",
+            "image": "https://files.myglamm.com/site-images/800x800/Manish-Malhotra-Sunday-night-indulgence-skincare-set---MyGlamm.jpg",
+            "category": "Skincare",
+            "rating": 3,
+            "price": 729,
+            "id": "74"
+        },
+        {
+            "name": "ORIENTAL BOTANICS ACTIVATED CHARCOAL BRIGHT GLOW FACE WASH, 200ML",
+            "description": "his face wash provides the triple benefits of deep cleansing, whitening and refreshing the skin. Though gentle on the skin yet it effectively draws out the impurities from the skin pores and helps clear the enlarged pores. Its detoxification effect helps in improving the complexion and assists in evening out the skin tone. It contains plant-based skin-lightening ingredients that help to increase the skin radiance and rejuvenate the dull skin. ",
+            "image": "https://files.myglamm.com/site-images/800x800/bf5e7720-1fba-11ec-83b7-c7f6905fb4221.jpg",
+            "category": "Skincare",
+            "rating": 2,
+            "price": 369,
+            "id": "75"
+        },
+        {
+            "name": "ST.BOTANICA VITAMIN C SPF 30 SUNSCREEN MINERAL BASED & WATER RESISTANT, 120ML",
+            "description": "description76",
+            "image": "https://files.myglamm.com/site-images/800x800/STBOT519-StBotanica-Vitamin-C-SPF-3011.jpg",
+            "category": "Skincare",
+            "rating": 5,
+            "price": 410,
+            "id": "76"
+        },
+        {
+            "name": "4X LIP LOVE - LIP MASKS COMBO",
+            "description": "ndulge in new-age lip care with Manish Malhotra Hydrating Golden Lip Mask - a luxurious masking experience for supple, plump and kissable lips. The unique honeycomb golden-mesh design of this lip mask is enriched with a thirst-quenching, hydrating formula.",
+            "image": "https://files.myglamm.com/site-images/800x800/LIP-(1).png",
+            "category": "Skincare",
+            "rating": 3,
+            "price": 299,
+            "id": "77"
+        },
+        {
+            "name": "GLOW IRIDESCENT BRIGHTENING TONER",
+            "description": "A skin-quencher, the GLOW Iridescent Brightening Toner by MyGlamm recharges your skin. The pH levels of rosehip oil match your skin, thus enabling the nutrients to seep deep into the skin’s layers. Infused with hyaluronic acid, this soothing toner locks in moisture and tightens your skin, while the pearl powder gives you an enviable natural iridescent glow.",
+            "image": "https://files.myglamm.com/site-images/800x800/Toner-Close.jpg",
+            "category": "Skincare",
+            "rating": 3,
+            "price": 589,
+            "id": "78"
+        },
+        {
+            "name": "GLOW IRIDESCENT BRIGHTENING ESSENCE",
+            "description": "A high-performance illuminating rejuvenator, the GLOW Iridescent Brightening Essence brings out your skin’s natural radiance. The vitamins and antioxidants in rosehip oil create a shield that protects and repairs the skin from dryness and damage.",
+            "image": "https://files.myglamm.com/site-images/800x800/BRGTES-(1).jpg",
+            "category": "Skincare",
+            "rating": 2,
+            "price": 810,
+            "id": "79"
+        },
+        {
+            "name": "BLUEBERRY & KAKADU PLUM SLEEPING MASK 50G",
+            "description": "Tired of waking up to dull, lifeless skin? Supercharge your skin with MyGlamm SUPERFOODS Blueberry & Kakadu Plum Sleeping Mask. The revitalizing overnight formula of this sleeping mask gives your skin a well-rested and radiant appearance the next morning. Rich in vitamin B3, this sleeping mask revives your skin’s natural glow & recharges dehydrated skin by balancing its moisture levels while you sleep.",
+            "image": "https://files.myglamm.com/site-images/800x800/Blueberry---Kakadu-Plum-Sleeping-Mask-1_1.jpg",
+            "category": "Skincare",
+            "rating": 4,
+            "price": 389,
+            "id": "80"
+        },
+        {
+            "name": "METHI FACE SCRUB GEL",
+            "description": "Methi Face Scrub Gel made with pure, natural ingredients; a recipe that has been passed on by generations of Indian women to achieve smooth, radiant skin. It is blended with aloe vera juice and roasted methi that are naturally rejuvenating, healing and intensely hydrating.",
+            "image": "https://files.myglamm.com/site-images/800x800/20-Methi-Face-Scrub-Gel-post-1-01.jpg",
+            "category": "Skincare",
+            "rating": 4,
+            "price": 699,
+            "id": "81"
+        },
+        {
+            "name": "2X VISIBLE RADIANCE - SHEET MASKS COMBO",
+            "description": "A range consisting of pure, timeless, skin-loving ingredients for the showstopper in YOU. We believe in ultra-indulgent skincare with a hint of luxe to satiate your beauty demands.",
+            "image": "https://files.myglamm.com/site-images/800x800/VS1-(2).png",
+            "category": "Skincare",
+            "rating": 2,
+            "price": 510,
+            "id": "82"
+        },
+        {
+            "name": "YOUTHFULL HYDRATING EYE CREAM WITH WATER BANK TECHNOLOGY",
+            "description": "OUTHfull Hydrating Eye Cream with Water Bank Technology is a boost of freshness and hydration for tired, puffy eyes. This replenishing eye cream is infused with hyaluronic acid, Marine Complex 5 which is a blend of nutrient-rich seaweed and algae extracts and shea butter",
+            "image": "https://files.myglamm.com/site-images/800x800/Eye-Cream-swatch.jpg",
+            "category": "Skincare",
+            "rating": 2,
+            "price": 805,
+            "id": "83"
+        },
+        {
+            "name": "HYALURONIC ACID HYDRATING SERUM",
+            "description": "A non-sticky serum that delivers an extra boost of hydration to your daily skincare routine. This mineral-oil free, dermatologically tested formula is developed with 3% highly concentrated, pure hyaluronic acid. It helps the skin retain moisture, delivering a boost of much-needed hydration. This face serum is also infused with natural actives - kakadu plum and marine algae.",
+            "image": "https://files.myglamm.com/site-images/800x800/Product-shot-01_2.jpg",
+            "category": "Skincare",
+            "rating": 4,
+            "price": 499,
+            "id": "84"
+        },
+        {
+            "name": "NIACINAMIDE CLARIFYING SERUM ENRICHED WITH MORINGA & TIGER GRASS",
+            "description": "A non-sticky texture serum that delivers your daily dose of Vitamin B3 (Niacinamide), antioxidants, and nourishing natural ingredients that balance sebum activity and intensely hydrate parched skin. This mineral-oil free, dermatologically tested formula revitalizes your skin with 10% highly concentrated, pure niacinamide and zinc PCA.",
+            "image": "https://files.myglamm.com/site-images/800x800/Product-shot-01_4.jpg",
+            "category": "Skincare",
+            "rating": 3,
+            "price": 399,
+            "id": "85"
+        },
+        {
+            "name": "ANTIMICROBIAL SANITIZING HAND RUB 100 ML",
+            "description": "Antimicrobial Sanitizing Hand Rub is a highly effective hand sanitizer that is gentle on the skin, making your hands feel instantly cared for. Perfect for fighting germs and keeping your hands nourished, this sanitizing rub is made with 80% alcohol and a soothing blend of Olive and Basil extracts that are antiseptic in nature.",
+            "image": "https://files.myglamm.com/site-images/800x800/25-Antimicrobial-Sanitizing-Hand-Rub-Post-1-Sanitizing-Spray.jpg",
+            "category": "Sanitizingcare",
+            "rating": 5,
+            "price": 149,
+            "id": "86"
+        },
+        {
+            "name": "LIFESAVER",
+            "description": "A mean, clean, germ-killing machine – this safety kit includes a set of 4 Wipeout Sanitizing Wipes (each pack contains 5 individually wrapped wipes, thus this kit contains a total of 20 individually wrapped wipes), 2 Hand Sanitizers (30 ml bottle) and a Cleansing Towels (each pack contains 10 towels) that will WIPEOUT germs anytime, anywhere!",
+            "image": "https://files.myglamm.com/site-images/800x800/Lifesaver_2.jpg",
+            "category": "Sanitizingcare",
+            "rating": 2,
+            "price": 430,
+            "id": "87"
+        },
+        {
+            "name": "LUXE ESSENTIALS",
+            "description": "While sanitizing formulas continue to be absolute must-haves in our everyday lives, this sanitizing care combo by Manish Malhotra is your luxe solution to the new normal that has now set in as a result of the global pandemic. With the third wave of COVID-19 almost upon us, this combo is now a non-negotiable part of our vanity kit. With Manish Malhotra Antimicrobial Sanitizing Spray",
+            "image": "https://files.myglamm.com/site-images/800x800/Manish-Malhotra-LUXE-ESSENTIALS_1.jpg",
+            "category": "Sanitizingcare",
+            "rating": 4,
+            "price": 599,
+            "id": "88"
+        },
+        {
+            "name": "SANITIZING CARE COMBO",
+            "description": "Say no to germs and yes to soft smooth skin. WIPEOUT is a line of sanitizing and disinfecting products to help you stay safe anytime, anywhere! Your first line of defense against germs is here to the rescue! This sanitizing care combo is an action-packed army of products that will not only protect you but also deeply nourish your skin with all the natural goodness.",
+            "image": "https://files.myglamm.com/site-images/800x800/Maximum-Defence-Sanitizing-care-combo_1.jpg",
+            "category": "Sanitizingcare",
+            "rating": 3,
+            "price": 450,
+            "id": "89"
+        },
+        {
+            "name": "WIPEOUT BABY SAFETY WIPES SET OF 2",
+            "description": "A myglammCARES initiative, our WIPEOUT Baby Wipes are a mean, clean, germ-killing machine. Infused with aloe vera extract, chamomile extract and vitamin E, these baby wipes are ideal for sanitizing, cleansing and moisturizing your baby's skin.",
+            "image": "https://files.myglamm.com/site-images/800x800/Baby-wipes_1.jpg",
+            "category": "Sanitizingcare",
+            "rating": 6,
+            "price": 449,
+            "id": "90"
+        },
+        {
+            "name": "DUAL SHIELD - SANITIZING CARE COMBO",
+            "description": "WIPEOUT is a line of sanitizing and disinfecting products to help you stay safe anytime, anywhere! This Sanitizing Care Combo is all you need to keep yourself safe from unwanted germs and also keep you fresh all day long. Each of these products are enriched with natural ingredients like lemon, neem, tea tree oil, aloe vera and many more. Get Sanitizing Care Combo and create a natural shield of goodness around your skin. ",
+            "image": "https://files.myglamm.com/site-images/800x800/Dual-shield-sanitizing-care-combo_1.jpg",
+            "category": "Sanitizingcare",
+            "rating": 1,
+            "price": 340,
+            "id": "91"
+        },
+        {
+            "name": "WIPEOUT SANITIZING WIPES SET OF 2",
+            "description": "our WIPEOUT Sanitizing Wipes are mean, clean, germ-killing machines. Shield yourself from germs anywhere, anytime! Clean, sanitize and moisturize your hands, surfaces or just about anything with our sanitizing wipes that are proven to kill harmful germs and other nasties lurking around you",
+            "image": "https://files.myglamm.com/site-images/800x800/5-sanitizing-wipes_2.jpg",
+            "category": "Sanitizingcare",
+            "rating": 3,
+            "price": 170,
+            "id": "92"
+        },
+        {
+            "name": "PRO PROTECTION - FACE WASH & BODY WASH COMBO",
+            "description": "WIPEOUT is a line of sanitizing and disinfecting products to help you stay safe anytime, anywhere! Enriched with natural ingredients and essential oils, these lifesavers clean, sanitize and moisturize, leaving you with nothing but goodness.",
+            "image": "https://files.myglamm.com/site-images/800x800/Pro-Protection---Face-Wash-Body-Wash-Combo_1.jpg",
+            "category": "Sanitizingcare",
+            "rating": 5,
+            "price": 369,
+            "id": "93"
+        },
+        {
+            "name": "MANISH MALHOTRA ANTIMICROBIAL FACIAL WIPES",
+            "description": "The Manish Malhotra by MyGlamm Antimicrobial Facial Wipes are cleansing and makeup-removing facial wipes that are gentle on your skin and yet highly effective. These pH-balanced, antimicrobial facial cleansing wipes are designed to gently sanitize your skin while whisking away impurities",
+            "image": "https://files.myglamm.com/site-images/800x800/27-Antimicrobial-Facial-Wipes-Post-1-Sanitizing-Spray.jpg",
+            "category": "Sanitizingcare",
+            "rating": 5,
+            "price": 329,
+            "id": "94"
+        },
+        {
+            "name": "MANISH MALHOTRA ANTIMICROBIAL FACIAL WIPES + SANITIZING SPRAY",
+            "description": "The Manish Malhotra by MyGlamm Antimicrobial Facial Wipes are cleansing and makeup-removing facial wipes that are gentle on your skin and yet highly effective. These pH-balanced, antimicrobial facial cleansing wipes are designed to gently sanitize your skin while whisking away impurities, makeup and excess oil with just a wipe.",
+            "image": "https://files.myglamm.com/site-images/800x800/MM-Hand-Spray-1-(1).jpg",
+            "category": "Sanitizingcare",
+            "rating": 4,
+            "price": 599,
+            "id": "95"
+        },
+        {
+            "name": "WIPEOUT GERM KILLING FACE WASH - ROSE & HONEY",
+            "description": "Say hello to fresh, clear and soft skin! The WIPEOUT Germ Killing Face Wash by MyGlamm is an antimicrobial daily foaming cleanser enriched with the goodness of time-tested natural ingredients. It is a unique formula with germ-killing chlorhexidine; that safeguards against germs, resulting in clean and refreshed skin. This revitalising face wash is also formulated with natural extracts",
+            "image": "https://files.myglamm.com/site-images/800x800/yenda-(2).jpg",
+            "category": "Sanitizingcare",
+            "rating": 5,
+            "price": 59,
+            "id": "96"
+        },
+        {
+            "name": "MYGLAMM WIPEOUT GERM KILLING FACE WASH - LAVENDER & NEEM",
+            "description": "Say hello to fresh, clear and soft skin! The WIPEOUT Germ Killing Face Wash by MyGlamm is an antimicrobial daily foaming cleanser, enriched with the goodness of time-tested natural ingredients. It is a unique formula with germ-killing chlorhexidine; that gets rid germs resulting in clean and refreshed skin.",
+            "image": "https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
+            "category": "Sanitizingcare",
+            "rating": 1,
+            "price": 100,
+            "id": "97"
+        },
+        {
+            "name": "WIPEOUT CLEANSING TOWELS - 10N",
+            "description": "A myglammCARES initiative, our WIPEOUT Cleansing Towels are a mean, clean, germ-killing machine. Enriched with neem and lemon oil, this lifesaver will kill  germs and keep your skin moisturised. This sanitizing towel is perfect for cleaning and sanitizing your face, body",
+            "image": "https://files.myglamm.com/site-images/800x800/Cleansing-towels-(2).jpg",
+            "category": "Sanitizingcare",
+            "rating": 4,
+            "price": 269,
+            "id": "98"
+        },
+        {
+            "name": "ANTIMICROBIAL SANITIZING SPRAY",
+            "description": "Wipes are cleansing and makeup-removing facial wipes that are gentle on your skin and yet highly effective. These pH-balanced, antimicrobial facial cleansing wipes are designed to gently sanitize your skin while whisking away impurities, makeup and excess oil with just a wipe. Its soothing blend of Vitamin E oil and Rosemary oil tones, hydrates and calms your skin",
+            "image": "https://files.myglamm.com/site-images/800x800/MM-Hand-Spray-1-(1).jpg",
+            "category": "Sanitizingcare",
+            "rating": 5,
+            "price": 499,
+            "id": "99"
+        },
+        {
+            "name": "LUXE ON THE GO",
+            "description": "Add a luxe touch to your outdoor essentials kit that sits in your everyday tote with this Manish Malhotra combo — Manish Malhotra Antimicrobial Sanitizing Spray that effectively kills germs while soothing your hands with a blend of Vetiver & Basil extracts",
+            "image": "https://files.myglamm.com/site-images/800x800/Manish-Malhotra-Luxe-on-the-go-essential-set---MyGlamm.jpg",
+            "category": "Sanitizingcare",
+            "rating": 5,
+            "price": 599,
+            "id": "100"
+        }
+    ]
+}
