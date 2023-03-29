@@ -1,13 +1,14 @@
 import './App.css';
-import { Heading } from '@chakra-ui/react'
+import { Box } from '@chakra-ui/react'
 import Navbar from './Components/Navbar';
+import AllRoutes from './Components/AllRoutes';
 
 function App() {
   return (
-    <div className="App">
+    <Box className='App'>
       <Navbar />
-      <Heading>ABHI's WORLD</Heading>
-    </div>
+      <AllRoutes />
+    </Box>
   );
 }
 
