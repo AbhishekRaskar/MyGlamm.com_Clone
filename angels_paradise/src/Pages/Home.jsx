@@ -1,6 +1,7 @@
 import React from 'react'
 import { Box, Text, Image, SimpleGrid } from "@chakra-ui/react"
-
+import Top3 from "../GIF/Top3.gif"
+import Bottom from "../GIF/Bottom5.gif"
 
 // const Images = [
 //   "https://files.myglamm.com/site-images/original/ult1920x527_1.jpg",
@@ -16,7 +17,8 @@ const Home = () => {
       <br />
       <br />
       <Box>
-        <Image src='https://files.myglamm.com/site-images/original/ult1920x527_1.jpg'></Image>
+        <Image margin="auto" width='100%' src={Top3}></Image>
+        {/* <Image src='https://files.myglamm.com/site-images/original/ult1920x527_1.jpg'></Image> */}
         {/* <Image src='https://files.myglamm.com/site-images/original/popxo1920x527-1_3.jpg'></Image>
         <Image src='https://files.myglamm.com/site-images/original/eye1920x527.png'></Image> */}
       </Box>
@@ -108,35 +110,35 @@ const Home = () => {
       <Box margin="auto" width={'80%'}>
         <SimpleGrid columns={{ lg: 8, sm: 2, md: 4 }} gap={5}>
           <Box>
-            <Image src='https://files.myglamm.com/site-images/original/SKin-1-2.png'  borderRadius='50%'/>
+            <Image src='https://files.myglamm.com/site-images/original/SKin-1-2.png' borderRadius='50%' />
             <Text color='black' fontSize={'sm'} as='b'>Skin</Text>
           </Box>
           <Box>
-            <Image src='https://files.myglamm.com/site-images/original/Lips-3.png'  borderRadius='50%'/>
+            <Image src='https://files.myglamm.com/site-images/original/Lips-3.png' borderRadius='50%' />
             <Text color='black' fontSize={'sm'} as='b'>Lips</Text>
           </Box>
           <Box>
-            <Image src='https://files.myglamm.com/site-images/original/Superfoods-Model-120-X-120-px_2.jpg'  borderRadius='50%'/>
+            <Image src='https://files.myglamm.com/site-images/original/Superfoods-Model-120-X-120-px_2.jpg' borderRadius='50%' />
             <Text color='black' fontSize={'sm'} as='b'>Hair</Text>
           </Box>
           <Box>
-            <Image src='https://files.myglamm.com/site-images/original/Eyes-4.png'  borderRadius='50%'/>
+            <Image src='https://files.myglamm.com/site-images/original/Eyes-4.png' borderRadius='50%' />
             <Text color='black' fontSize={'sm'} as='b'>Eyes</Text>
           </Box>
           <Box>
-            <Image src='https://files.myglamm.com/site-images/original/Face-5.png'  borderRadius='50%'/>
+            <Image src='https://files.myglamm.com/site-images/original/Face-5.png' borderRadius='50%' />
             <Text color='black' fontSize={'sm'} as='b'>Face</Text>
           </Box>
           <Box>
-            <Image src='https://files.myglamm.com/site-images/original/Nails-1.png'  borderRadius='50%'/>
+            <Image src='https://files.myglamm.com/site-images/original/Nails-1.png' borderRadius='50%' />
             <Text color='black' fontSize={'sm'} as='b'>Nails</Text>
           </Box>
           <Box>
-            <Image src='https://files.myglamm.com/site-images/original/App-PersonalCare_2.png'  borderRadius='50%'/>
+            <Image src='https://files.myglamm.com/site-images/original/App-PersonalCare_2.png' borderRadius='50%' />
             <Text color='black' fontSize={'sm'} as='b'>Sanitizing Care</Text>
           </Box>
           <Box>
-            <Image src='https://files.myglamm.com/site-images/original/Bath.png'  borderRadius='50%'/>
+            <Image src='https://files.myglamm.com/site-images/original/Bath.png' borderRadius='50%' />
             <Text color='black' fontSize={'sm'} as='b'>Bath</Text>
           </Box>
         </SimpleGrid >
@@ -144,7 +146,7 @@ const Home = () => {
       <br />
       <br />
       <Box>
-        <Image src='https://files.myglamm.com/site-images/original/simpl-3360x279_13.png' />
+        <Image width={'100%'} src={Bottom} />
       </Box>
     </Box>
   )
