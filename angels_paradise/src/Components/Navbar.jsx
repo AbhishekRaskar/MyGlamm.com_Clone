@@ -8,13 +8,15 @@ import {
     useColorModeValue,
     Stack,
     Input,
+    Heading,Button,Text
 } from '@chakra-ui/react';
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
 import { NavLink } from 'react-router-dom'
 import Logo from "../Logo/Angels_Paradise.png"
 
 import { AiOutlineUser, AiOutlineShopping } from "react-icons/ai"
-
+import { useContext } from 'react'
+import { AuthContext } from '../Context/AuthContextProvider'
 
 const links = [
     { to: "/", name: "HOME" },
@@ -31,6 +33,7 @@ const deactive = { color: "black", textDecoration: "none" };
 
 const Navbar = () => {
     const { isOpen, onOpen, onClose } = useDisclosure();
+    const { token, logout, isAuth } = useContext(AuthContext);
 
     return (
         <>
@@ -70,6 +73,20 @@ const Navbar = () => {
                             <NavLink to="/cart"><AiOutlineShopping /></NavLink>
                             <NavLink to="/register"><AiOutlineUser /></NavLink>
                         </Flex>
+                    </Box>
+                    <Box>
+                        {
+                            isAuth ? (
+                                <Box>
+                                    <Heading size='sm'>Logged in :<Text as='samp' fontSize='xs'>{token}</Text></Heading>
+                                    <Button style={{
+                                        width:'auto',height:'25px'
+                                    }} marginTop={'4px'} colorScheme='pink' variant='outline' onClick={logout}>LOGOUT</Button>
+                                </Box>
+                            ) : (
+                                <Text as='samp' fontSize='md'>Please Login</Text>
+                            )
+                        }
                     </Box>
                 </Flex>
 

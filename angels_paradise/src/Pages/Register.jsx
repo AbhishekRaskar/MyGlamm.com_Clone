@@ -25,10 +25,8 @@ import {
   Button,
   Heading,
   Text,
-  useColorModeValue,
 } from '@chakra-ui/react';
 import { useState } from 'react';
-import { ViewIcon, ViewOffIcon } from '@chakra-ui/icons';
 import { Link } from 'react-router-dom';
 
 export default function SignupCard() {
@@ -38,8 +36,7 @@ export default function SignupCard() {
     <Flex
       minH={'100vh'}
       align={'center'}
-      justify={'center'}
-      bg={useColorModeValue('gray.50', 'gray.800')}>
+      justify={'center'}>
       <Stack spacing={8} mx={'auto'} maxW={'lg'} py={12} px={6}>
         <Stack align={'center'}>
           <Heading fontSize={'4xl'} textAlign={'center'}>
@@ -48,7 +45,6 @@ export default function SignupCard() {
         </Stack>
         <Box
           rounded={'lg'}
-          bg={useColorModeValue('white', 'gray.700')}
           boxShadow={'lg'}
           p={8}>
           <Stack spacing={4}>
@@ -75,13 +71,7 @@ export default function SignupCard() {
               <InputGroup>
                 <Input type={showPassword ? 'text' : 'password'} />
                 <InputRightElement h={'full'}>
-                  <Button
-                    variant={'ghost'}
-                    onClick={() =>
-                      setShowPassword((showPassword) => !showPassword)
-                    }>
-                    {showPassword ? <ViewIcon /> : <ViewOffIcon />}
-                  </Button>
+
                 </InputRightElement>
               </InputGroup>
             </FormControl>
@@ -101,8 +91,8 @@ export default function SignupCard() {
               <Text align={'center'}>
                 Already a user? <Link to='/login' style={{
                   textDecoration: "underline",
-                  textDecorationColor : "blue",
-                  color : "blue"
+                  textDecorationColor: "blue",
+                  color: "blue"
                 }}>Login</Link>
               </Text>
             </Stack>
