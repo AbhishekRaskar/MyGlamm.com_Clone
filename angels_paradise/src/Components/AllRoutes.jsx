@@ -8,6 +8,7 @@ import Products from '../Pages/Products';
 import Login from '../Pages/Login';
 import Cart from '../Pages/Cart';
 import Sale from '../Pages/Sale';
+import PrivateRoute from './PrivateRoute';
 
 
 
@@ -21,7 +22,11 @@ const AllRoutes = () => {
         <Route path='/singleproduct/:id' element={<SingleProduct />} />
         <Route path='/register' element={<Register />} />
         <Route path='/login' element={<Login />} />
-        <Route path='/cart' element={<Cart />} />
+        <Route path='/cart' element={
+          <PrivateRoute>
+            <Cart />
+          </PrivateRoute>
+        } />
         <Route path='/sale' element={<Sale />} />
       </Routes>
     </div>

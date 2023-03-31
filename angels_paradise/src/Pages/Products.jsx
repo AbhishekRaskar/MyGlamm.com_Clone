@@ -39,23 +39,26 @@ const Products = () => {
   return (
     <Box>
       <Heading>OUR PRODUCTS</Heading>
+      <br />
       <Box width={'60%'} border='1px solid blue' margin={'auto'}>
         <SimpleGrid columns={{lg:4}}>
-        <Checkbox>ABHI</Checkbox>
+        <Checkbox>HIGH TO LOW</Checkbox>
+        <Checkbox>LOW TO HIGH</Checkbox>
         <Select placeholder='Select option'>
-          <option>Makeup</option>
-          <option>Haircare</option>
-          <option>Bath</option>
-          <option>Skincare4</option>
-          <option>Sanitizingcare</option>
+          <option value='Makeup'>Makeup</option>
+          <option value='Haircare'>Haircare</option>
+          <option value='Bath'>Bath</option>
+          <option value='Skincare4'>Skincare4</option>
+          <option value='Sanitizingcare'>Sanitizingcare</option>
         </Select>
         </SimpleGrid>
       </Box>
+      <br />
       <Box margin={'auto'} width='90%'>
         <SimpleGrid columns={{ lg: 4, md: 2, sm: 1 }} gap={5}>
           {data.length === 0 ? <Spinner
             thickness='4px'
-            speed='5s'
+            speed='3s'
             color='red.500'
             size='xl'
             marginLeft='590px'

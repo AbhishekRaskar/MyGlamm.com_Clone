@@ -1,15 +1,7 @@
-// import { Box, Heading } from '@chakra-ui/react'
-// import React from 'react'
-
-// const Login = () => {
-//   return (
-//     <Box>
-//       <Heading>This is Login Page</Heading>
-//     </Box>
-//   )
-// }
-
-// export default Login
+import { useContext } from 'react';
+import { useState } from 'react'
+import { AuthContext } from '../Context/AuthContextProvider';
+import { Navigate } from "react-router-dom";
 import {
   Flex,
   Box,
@@ -20,37 +12,71 @@ import {
   Stack,
   Link,
   Button,
-  Heading,
-  useColorModeValue,
+  Heading, useToast
 } from '@chakra-ui/react';
 
+
+
 export default function Login() {
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const { login, isAuth } = useContext(AuthContext);
+  const toast = useToast()
+
+  const handleLogin = () => {
+    const userDetails = {
+      email,
+      password
+    };
+    //  we do here for authentication
+    fetch('https://reqres.in/api/login', {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(userDetails)
+    })
+      .then((res) => res.json())
+      .then((data) => {
+        toast({
+          title: 'Login Successful.',
+          description: "You are Logged In Successfully.",
+          status: 'success',
+          position: 'top',
+          duration: 3000,
+          isClosable: true,
+        })
+        console.log(data);
+        login(data.token);
+      })
+  }
+
+  // for navigation
+  if (isAuth) {
+    return <Navigate to="/" />
+  }
+
   return (
     <Flex
       minH={'100vh'}
       align={'center'}
-      justify={'center'}
-      bg={useColorModeValue('gray.50', 'gray.800')}>
+      justify={'center'}>
       <Stack spacing={8} mx={'auto'} maxW={'lg'} py={12} px={6}>
         <Stack align={'center'}>
           <Heading fontSize={'4xl'}>Sign in to your account</Heading>
-          {/* <Text fontSize={'lg'} color={'gray.600'}>
-            to enjoy all of our cool <Link color={'blue.400'}>features</Link> ✌️
-          </Text> */}
         </Stack>
         <Box
           rounded={'lg'}
-          bg={useColorModeValue('white', 'gray.700')}
           boxShadow={'lg'}
           p={8}>
           <Stack spacing={4}>
             <FormControl id="email">
               <FormLabel>Email address</FormLabel>
-              <Input type="email" onChange={(e) => console.log(e.target.value)} />
+              <Input type="email" onChange={(e) => setEmail(e.target.value)} />
             </FormControl>
             <FormControl id="password">
               <FormLabel>Password</FormLabel>
-              <Input type="password" onChange={(e) => console.log(e.target.value)} />
+              <Input type="password" onChange={(e) => setPassword(e.target.value)} />
             </FormControl>
             <Stack spacing={10}>
               <Stack
@@ -65,7 +91,8 @@ export default function Login() {
                 color={'white'}
                 _hover={{
                   bg: 'blue.500',
-                }}>
+                }}
+                onClick={handleLogin}>
                 Sign in
               </Button>
             </Stack>
