@@ -24,13 +24,53 @@ import {
   Stack,
   Button,
   Heading,
-  Text,
+  Text, useToast
 } from '@chakra-ui/react';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
+// import { AuthContext } from '../Context/AuthContextProvider';
+// import { useContext } from 'react';
+import { Navigate } from "react-router-dom";
 
-export default function SignupCard() {
+
+
+export default function Signup() {
   const [showPassword, setShowPassword] = useState(false);
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [nav, setNav] = useState(false)
+  const toast = useToast();
+
+  const handleSignUp = () => {
+    const userDetails = {
+      email,
+      password
+    };
+    //  we do here for authentication
+    fetch('https://reqres.in/api/register', {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(userDetails)
+    })
+      .then((res) => res.json())
+      .then((data) => {
+        toast({
+          title: 'Account Created.',
+          description: "Your Account Created Successfully.",
+          status: 'success',
+          position: 'top',
+          duration: 3000,
+          isClosable: true,
+        })
+        setNav(true);
+      })
+  }
+  if (nav) {
+    return <Navigate to="/login" />
+  }
+
 
   return (
     <Flex
@@ -40,7 +80,7 @@ export default function SignupCard() {
       <Stack spacing={8} mx={'auto'} maxW={'lg'} py={12} px={6}>
         <Stack align={'center'}>
           <Heading fontSize={'4xl'} textAlign={'center'}>
-            Sign up
+            Create a Account
           </Heading>
         </Stack>
         <Box
@@ -64,12 +104,12 @@ export default function SignupCard() {
             </HStack>
             <FormControl id="email" isRequired>
               <FormLabel>Email address</FormLabel>
-              <Input type="email" />
+              <Input type="email" onChange={(e) => setEmail(e.target.value)} />
             </FormControl>
             <FormControl id="password" isRequired>
               <FormLabel>Password</FormLabel>
               <InputGroup>
-                <Input type={showPassword ? 'text' : 'password'} />
+                <Input onChange={(e) => setPassword(e.target.value)} type={showPassword ? 'text' : 'password'} />
                 <InputRightElement h={'full'}>
 
                 </InputRightElement>
@@ -82,8 +122,9 @@ export default function SignupCard() {
                 bg={'blue.400'}
                 color={'white'}
                 _hover={{
-                  bg: 'blue.500',
-                }}>
+                  bg: 'pink.500',
+                }}
+                onClick={handleSignUp}>
                 Sign up
               </Button>
             </Stack>

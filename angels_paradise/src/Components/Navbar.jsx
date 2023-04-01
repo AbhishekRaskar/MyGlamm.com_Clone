@@ -28,7 +28,7 @@ const links = [
 
 
 
-const active = { color: "tomato", textDecoration: "none" };
+const active = { color: "#E91E63", textDecoration: "none" };
 const deactive = { color: "black", textDecoration: "none" };
 
 const Navbar = () => {
@@ -78,7 +78,7 @@ const Navbar = () => {
                         {
                             isAuth ? (
                                 <Box>
-                                    <Heading size='sm'>Logged in :<Text as='samp' fontSize='xs'>{token}</Text></Heading>
+                                    <Heading size='sm'><Text as='samp' fontSize='xs'>{token}</Text></Heading>
                                     <Button style={{
                                         width:'auto',height:'25px'
                                     }} marginTop={'4px'} colorScheme='pink' variant='outline' onClick={logout}>LOGOUT</Button>

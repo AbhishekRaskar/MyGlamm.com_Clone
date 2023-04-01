@@ -46,8 +46,8 @@ export default function Login() {
           duration: 3000,
           isClosable: true,
         })
-        console.log(data);
-        login(data.token);
+        // console.log(data);
+        login();
       })
   }
 
@@ -63,7 +63,7 @@ export default function Login() {
       justify={'center'}>
       <Stack spacing={8} mx={'auto'} maxW={'lg'} py={12} px={6}>
         <Stack align={'center'}>
-          <Heading fontSize={'4xl'}>Sign in to your account</Heading>
+          <Heading fontSize={'4xl'}>Login to your Account</Heading>
         </Stack>
         <Box
           rounded={'lg'}
@@ -90,7 +90,7 @@ export default function Login() {
                 bg={'blue.400'}
                 color={'white'}
                 _hover={{
-                  bg: 'blue.500',
+                  bg: 'pink.500',
                 }}
                 onClick={handleLogin}>
                 Sign in
