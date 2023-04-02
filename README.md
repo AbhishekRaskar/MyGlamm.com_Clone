@@ -11,23 +11,24 @@ https://angels-paradise-abhishekraskar.vercel.app/
 
 
 <h1>Built with</h1>
-HTML
-CSS
-JavaScript
+React JS,
+HTML,
+CSS,
+JavaScript,
 JSON server
 
 <h1>Used libraries</h1>
-node modules
-Styled-Components
-HTML Components
-Chakra Ui
+node modules,
+Styled-Components,
+HTML Components,
+Chakra Ui,
 
 <h1>Features</h1>
-Signup
-Login
-Sorting
-Individual Item Pages
-Searching Functionality
-filtering 
-Searching Functionality
-Pagination
+Signup,
+Login,
+Sorting,
+Individual Item Page,
+Searching Functionality,
+filtering ,
+Searching Functionality,
+Pagination,
