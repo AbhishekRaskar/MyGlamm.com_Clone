@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { ChakraProvider } from '@chakra-ui/react'
 import { BrowserRouter } from 'react-router-dom';
 import AuthContextProvider from './Context/AuthContextProvider';
+
 document.title = "Angels Paradise";
 
 

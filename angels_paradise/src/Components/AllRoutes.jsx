@@ -9,6 +9,7 @@ import Login from '../Pages/Login';
 import Cart from '../Pages/Cart';
 import Sale from '../Pages/Sale';
 import PrivateRoute from './PrivateRoute';
+import Payment from '../Pages/Payment';
 
 
 
@@ -28,6 +29,7 @@ const AllRoutes = () => {
           </PrivateRoute>
         } />
         <Route path='/sale' element={<Sale />} />
+        <Route path='/payment' element={<Payment />} />
       </Routes>
     </div>
   )
