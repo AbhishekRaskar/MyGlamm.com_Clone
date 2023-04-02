@@ -61,7 +61,7 @@ const Products = () => {
   // console.log(data);
   return (
     <Box>
-      <Heading>OUR PRODUCTS</Heading>
+      <Heading color={"pink.300"}>OUR PRODUCTS</Heading>
       <br />
       <Box width={'60%'} rounded={'2xl'} boxShadow={'2px 2px 2px 2px #FED7E2'} margin={'auto'}>
         <SimpleGrid columns={{ lg: 4, md: 2, sm: 1 }}>
